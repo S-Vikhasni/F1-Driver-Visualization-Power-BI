@@ -1,5 +1,8 @@
 ![image](https://github.com/user-attachments/assets/a11df7ee-16ba-4761-8633-0fd92ca6712c)
 
+![image](https://github.com/user-attachments/assets/c509fd8b-19c8-43e4-9d9f-121c2409c3a0)
+
+
 The interactive Power BI dashboard was developed to showcase key insights from a dataset sourced from Kaggle. 
 
 The dashboard allows users to filter by driver nationality, active driver status, and championship-winning drivers. Key metrics include total points acquired by each driver, comparisons of total pole positions vs. total wins, and a breakdown of pole positions vs. race wins. 
